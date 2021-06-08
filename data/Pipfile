@@ -10,7 +10,7 @@ pywin32 = { markers = "sys_platform == 'win32'", version = ">=227" }
 
 [packages]
 protobuf = "~=3.12.1"
-pillow = "~=7.1.2"
+pillow = "~=8.2.0"
 rectpack = "~=0.2.1"
 aiohttp = "*"
 aiofiles = "*"
